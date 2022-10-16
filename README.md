@@ -1,4 +1,5 @@
 # yandex_contest
+![alt text](three.png)
 
 I solve yandex.contest tasks for practicing. 
 
