@@ -11,7 +11,7 @@ class TrickyCipherTest {
     TrickyCipher cipher = new TrickyCipher();
     String PATH = "tricky_cipher_path.txt";
     @Test
-    void run() throws IOException {
+    void tricky_cipher_should_be_ok() throws IOException {
         assertEquals("710 64F", cipher.run(PATH));
     }
 }

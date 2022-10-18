@@ -1,7 +1,9 @@
 # yandex_contest
+![alt text](three.png)
 
 I solve yandex.contest tasks for practicing. 
 
 Tasks :
-- alchemist | done
-- tricky cipher | done
+- the alchemist | done
+- the tricky cipher | done
+- the log of events | done

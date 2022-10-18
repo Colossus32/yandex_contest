@@ -12,7 +12,7 @@ class AlchemistTest {
     String PATH = "alchemist_path.txt";
 
     @Test
-    void should_return_100() throws IOException {
+    void alchemist_should_return_100() throws IOException {
         assertEquals("100", alchemist.canICraftPotions(PATH));
     }
 }
